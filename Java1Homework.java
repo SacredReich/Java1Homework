@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-import javax.lang.model.element.VariableElement;
+// import javax.lang.model.element.VariableElement;
 
 public class Java1Homework {
 
